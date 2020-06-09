@@ -1,0 +1,34 @@
+.painel {
+    background-color: lightgrey !important;
+    float: right;
+    width: 40%;
+    height: 50rem !important;
+}
+
+
+#right-message {
+    font-size: 2.75em;
+    font-family: font2;
+    text-align: center;
+    margin-right: 15px;
+    padding-top: 18vw; 
+}
+
+.right-content {
+    display: none;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.conteudo-titulo {
+    font-size: 2.2em;
+    margin-top: 10px;
+    text-align: center !important;
+}
+
+.car_info{
+    margin-top: 55%;
+    margin-left: 5%;
+    margin-right: 10%;
+    text-align: justify !important;
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "imgCapa": "images/lancerEvo.jpg",
+    "imgCapa2": "images/lancer2.jpg",
+    "name": "Lancer Evolution VIII",
+    "motor": "Motor: 2.0 4Cil em Linha Turbo",
+    "power": "Potência: 261cv",
+    "production": "Produção: 2004-2006",
+    "price": "Preço: $$$",
+    "info": "O Mitsubishi Lancer Evolution, (também apelidado de Lancer Evo ou Evo) é um sedan de alto desempenho baseado no Mitsubishi Lancer que foi fabricado pela Mitsubishi Motors entre 1992 e 2015. Das dez versões fabricadas, todas utilizam um motor de 2 litros, com turbo e tração nas quatro rodas. Cada versão é numerada com números romanos, mas não necessariamente sendo uma nova geração. Os modelos japoneses têm restrição de potência, para obedecer as leis locais. Já as versões disponíveis em alguns outros mercados, como por exemplo o Reino Unido, têm a potência original (sem a limitação de potência), atingindo até 450 cv."
+  },
+  {
+    "imgCapa": "images/dodge.jpg",
+    "imgCapa2": "images/dodge2.jpg",
+    "name": "Dodge Charger R/T",
+    "motor": "Motor: 7.0 V8",
+    "power": "Potência: 426cv",
+    "production": "Produção: 1970",
+    "price": "Preço: $$$$",
+    "info": "Lançado em 1970 pela Chrysler, recém-chegada ao Brasil. Derivado do Dodge Dart cupê, ele tinha cara e potência de carro americano. Ultrapassava facilmente os 180 km/h e acelerava de 0 a 100 em 11 segundos. Essa marca era obtida graças à elevada taxa de compressão do motor, que obrigava o Charger a consumir gasolina azul em altas doses – fazia 4 km/l na cidade e 6 km/l na estrada."
+  },
+  {
+    "imgCapa": "images/porsche.jpg",
+    "imgCapa2": "images/porsche2.jpg",
+    "name": "Porsche 911 GT2 RS",
+    "motor": "Motor: 3.8 6 Cil Boxer BiTurbo",
+    "power": "Potência: 700cv",
+    "production": "Produção: 2017-2018",
+    "price": "Preço: R$ 2.000.000",
+    "info": "O  Porsche 911 GT2 RS é o modelo mais agressivo da linha. A sigla GT2 éusada sempre na última série especial ao fim de algumas gerações do 911. Essa, no fim da geração 991, tem motor seis cilindros opostos de 3,8 litros, biturbo. Ele rende 700 cv e 76 mkgf. Sua transmissão é a automatizada de dupla embreagem e sete marchas (PDK). Com esse conjunto é capaz de acelerar de 0 a 100 km/h em 2,8 segundos e atinge a velocidade máxima de 340 km/h. Com ele, a Porsche chegou a cravar o um novo recorde para veículos de produção no circuito de Nurburgring, na Alemanha. O modelo havia registrado o tempo de 6 minutos e 47,3 segundos nos 20,6 km."
+  },
+  {
+    "imgCapa": "images/lambo.jpg",
+    "imgCapa2": "images/lambo2.jpg",
+    "name": "Huracan Performante",
+    "motor": "Motor: 5.2 V10",
+    "power": "Potência: 640cv",
+    "production": "Produção: 2017 - Presente",
+    "price": "Preço: R$ 3.300.000",
+    "info": "O Lamborghini Huracán é um automóvel desportivo construído pela empresaitaliana Lamborghini, substituindo o lendário Gallardo, uns dos carros mais bem sucedidos da história da companhia. Como é tradição na marca Lamborghini, o nome Huracán surgiu do lendário touro de lide indultado na praça Real Maestranza de Sevilla. O motor V10 de 5,2 litros naturalmente aspirado é conceitualmente o mesmo do restante da linha, mas com modificações nos coletores e no sistema de exaustão e novas válvulas de titânio. Ele agora entrega 640 cv e torque máximo de 61,2 mkgf, ou 31 cv e 4 mkgf a mais em relação ao modelo Huracán convencional."
+  },
+  {
+    "imgCapa": "images/ferrari488.jpg",
+    "imgCapa2": "images/ferrari2.jpg",
+    "name": "Ferrari 488 Pista",
+    "motor": "Motor: 3.9 V8 BiTurbo",
+    "power": "Potência: 720cv ",
+    "production": "Produção: 2018 - Presente",
+    "price": "Preço: R$ 3.700.000",
+    "info": "O Ferrari 488 Pista é equipado com o motor V8 mais poderoso da história da marca Maranello e é o carro esportivo da série especial da empresa com o mais alto nível de transferência tecnológica das corridas. De fato, o nome, que significa 'Pista' em italiano, foi escolhido especificamente para testemunhar a herança incomparável da Ferrari no esporte a motor. Tecnicamente, o Ferrari 488 Pista abrange toda a experiência acumulada nos circuitos do mundo pelo 488 Challenge e o 488 GTE."
+  },
+  {
+    "imgCapa": "images/senna.jpg",
+    "imgCapa2": "images/senna2.jpg",
+    "name": "McLaren Senna",
+    "motor": "Motor: 4.0 V8 BiTurbo",
+    "power": "Potência: 800cv",
+    "production": "Produção: 2018 - Presente",
+    "price": "Preço: R$ 8.000.000",
+    "info": "É um carro esportivo fabricado pela McLaren Automotive, na Inglaterra, que homenageia o tricampeão mundial de Fórmula 1, Ayrton Senna. Já é considerado o McLaren mais rápido já feito em sua história. Serão produzidas apenas 500 unidades e o preço estimado é de 750 mil libras esterlinas. Possui tração traseira e gera até 800 kg de downforce. Para atingir esse número, o carro traz diversos apêndices aerodinâmicos, como a asa e o aerofólio móveis. Há ainda ranhuras laterais para facilitar a passagem do ar. O modelo pesa apenas 1.198 quilos. Sua carroceria é feita de fibra de carbono, material também abundante em partes internas, como os bancos. Cada um deles pesa apenas 3 kg."
+  }
+]

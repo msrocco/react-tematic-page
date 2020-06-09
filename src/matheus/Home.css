@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "myFont";
+    src: url("./fonts/new_font.TTF");
+}
+
+.home {
+    line-height: 25vw;
+    font-size: 20px;
+    font-family: myFont;
+    color: white;
+}
+
+.conteudo {
+    margin-top: 45px;
+    text-align: center;
+}
+
+.imagem_fundo {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: url("/images/fundo.jpg") center center;
+    opacity: .7;
+    width: 100%;
+    height: 100%;
+}
